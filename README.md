@@ -38,7 +38,7 @@ To execute the application, the following steps can be followed.
 3. Our model (with Video-P2P)
     1.	Follow the README on [this](https://github.com/ShaoTengLiu/Video-P2P) GitHub page for the installation of the required packages and the stable diffusion model
     2.	Add them to the “our-model” folder
-    3.	Run the model by using a sequence of composites and masks of step 1), you can find my example notebook in this folder
+    3.	Run the model by using a sequence of composites and masks of step 1, you can find my example notebook in this folder
     4.	The outputs will be saved in the “outputs” folder
 
 ## Validation
