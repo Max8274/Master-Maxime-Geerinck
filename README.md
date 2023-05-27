@@ -32,7 +32,7 @@ To execute the application, the following steps can be followed.
 2. Cross-domain compositing
     1.	For the setup of this model, you can follow the README on [this](https://github.com/cross-domain-compositing/cross-domain-compositing) GitHub page
     2.	Put all the related files in the cross-domain-compositing folder
-    3.	Run the model with the composites and masks of step 1), you can find my example notebook in this folder
+    3.	Run the model with the composites and masks of step 1, you can find my example notebook in this folder
     4.	You can save the outputs in the “cdc_output” folder
 
 3. Our model (with Video-P2P)
