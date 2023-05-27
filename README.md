@@ -56,7 +56,7 @@ Requires TensorFlow, check [this](https://github.com/bioinf-jku/TTUR) GitHub pag
 1. Navigate to the “precalc_stats_example.py” file in the “validation” folder
 2. In this file, change the data_path to the folder containing real images of cars
 3. Change the output_path to the validation folder and run the code
-4. Navigate to the “fid_example.py” file and change the image_path to the folder containing the composites
+4. Navigate to the “fid_example.py” file and change the image_path to the folder containing the composites or the cross-domain compositing outputs
 5. Change the stats_path to the validation folder containing the “fid_stats.npz” file
 6. Run the python file, the FID score will be printed
 
