@@ -1,0 +1,16 @@
+pretrained_model_path: "./outputs/blender-ride"
+image_path: "./data/blender"
+prompt: "a fake car is driving on the road"
+prompts:
+  - "a fake car is driving on the road"
+  - "a real car is driving on the road"
+blend_word:
+  - 'car'
+  - 'car'
+eq_params:
+  words:
+    - "real"
+  values:
+    - 2
+save_name: "real"
+is_word_swap: False
